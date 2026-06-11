@@ -1,5 +1,5 @@
 # Blockland Client Add‑Ons
-
+Can download client addons from [here](https://blocklandglass.com/addons/board/13)
 ## Core Add‑Ons
 - [New Duplicator](https://blocklandglass.com/addons/addon/562) • [Updated New Duplicator](https://git.dword.dev/redo/Tool_NewDuplicator) - adds keybinds for the mod
 - [URL to Clipboard](https://blocklandglass.com/addons/addon/1543) - URL to Clipboard (game uses old registry for webbrowser that ms-edge sets)
@@ -21,7 +21,7 @@
 - [Client_FullscreenPrompt](https://bl.kenko.dev/Add-ons/Retail/Client/Client_FullscreenPrompt.zip)
 - [Client_NFM (v1.42)](https://bl.kenko.dev/Add-ons/Retail/Client/Client_NFM%20(v1.42).zip)
 - [Client_TabShiftingBrickSelector](https://bl.kenko.dev/Add-ons/Retail/Client/client_TabShiftingBrickSelector.zip)
-- [Client_ReduceEventLag](https://github.com/Buddism/Client_ReduceEventLag/releases)
+- [Client_ReduceEventLag](https://github.com/Buddism/Client_ReduceEventLag/releases) • [Glass](https://blocklandglass.com/addons/addon/1548)
 
 ## Preferential Add‑Ons
 - [Chat Customizer Rewrite](https://forum.blockland.us/index.php?topic=291990.0) • [GitHub](https://github.com/TheBlackParrot/blockland-chat-customizer-rewrite/releases)
