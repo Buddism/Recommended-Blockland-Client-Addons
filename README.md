@@ -68,7 +68,7 @@ A curated list of useful client‑side add‑ons for Blockland, including Glass,
 - **Client_ReduceEventLag**  
   https://github.com/Buddism/Client_ReduceEventLag/releases
 
-## Preferred Add‑Ons
+## Personal Preference Add‑Ons
 
 - **Chat Customizer Rewrite**  
   https://forum.blockland.us/index.php?topic=291990.0  
